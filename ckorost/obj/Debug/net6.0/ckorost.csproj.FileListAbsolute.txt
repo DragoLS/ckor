@@ -1,0 +1,15 @@
+D:\Projects\ckorost\ckorost\bin\Debug\net6.0\ckorost.exe
+D:\Projects\ckorost\ckorost\bin\Debug\net6.0\ckorost.deps.json
+D:\Projects\ckorost\ckorost\bin\Debug\net6.0\ckorost.runtimeconfig.json
+D:\Projects\ckorost\ckorost\bin\Debug\net6.0\ckorost.dll
+D:\Projects\ckorost\ckorost\bin\Debug\net6.0\ckorost.pdb
+D:\Projects\ckorost\ckorost\obj\Debug\net6.0\ckorost.csproj.AssemblyReference.cache
+D:\Projects\ckorost\ckorost\obj\Debug\net6.0\ckorost.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ckorost\ckorost\obj\Debug\net6.0\ckorost.AssemblyInfoInputs.cache
+D:\Projects\ckorost\ckorost\obj\Debug\net6.0\ckorost.AssemblyInfo.cs
+D:\Projects\ckorost\ckorost\obj\Debug\net6.0\ckorost.csproj.CoreCompileInputs.cache
+D:\Projects\ckorost\ckorost\obj\Debug\net6.0\ckorost.dll
+D:\Projects\ckorost\ckorost\obj\Debug\net6.0\refint\ckorost.dll
+D:\Projects\ckorost\ckorost\obj\Debug\net6.0\ckorost.pdb
+D:\Projects\ckorost\ckorost\obj\Debug\net6.0\ckorost.genruntimeconfig.cache
+D:\Projects\ckorost\ckorost\obj\Debug\net6.0\ref\ckorost.dll
